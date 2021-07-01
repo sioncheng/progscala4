@@ -2,5 +2,7 @@
 out
 .git
 *.iml
+.vscode/
+.metals/
 
 
